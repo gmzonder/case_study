@@ -1,0 +1,7 @@
+﻿# Company presentations: keep out of the repo
+*.pptx
+*.ppt
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
