@@ -8,3 +8,6 @@ __pycache__/
 
 # Files
 *pdf
+
+# Local backup copies
+*_copy.ipynb
